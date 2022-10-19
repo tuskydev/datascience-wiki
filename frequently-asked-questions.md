@@ -354,7 +354,12 @@ Probability is not friendly to beginners. Definitions are rooted in higher mathe
 
 It's best to pick a single primary source and a community for help. If you can spend the money, register for a university or community college course and attend in person.
 
-The best free resource is [MIT's 18.05 Introduction to Probability and Statistics (Spring 2014)](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/). Leverage /r/learnmath, /r/learnmachinelearning, and /r/AskStatistics when you get inevitably stuck.
+__Curated Threads & Resources__
+
+- The best free resource is [MIT's 18.05 Introduction to Probability and Statistics (Spring 2014)](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/). Leverage /r/learnmath, /r/learnmachinelearning, and /r/AskStatistics when you get inevitably stuck.
+- [Seeing Theory](https://seeing-theory.brown.edu/) 
+- Khan Academy
+    -  [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) 
 
 __How Do I Learn Linear Algebra?__
 
@@ -367,8 +372,11 @@ __How Do I Learn Statistics?__
 __Curated Threads & Resources__
 
 __How Do I Learn Machine Learning?__
-
+ 
 __Curated Threads & Resources__
+
+1. [Machine Learning StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+2. [The Hundred-Page Machine Learning Book](http://themlbook.com/) 
 
 ---
 
